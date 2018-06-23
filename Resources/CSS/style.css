@@ -66,3 +66,15 @@ nav span{
   padding-left:20px;
   border-radius:20px;
 }
+/* Store Section */
+#Store{
+  width:1000px;
+  margin:auto;
+}
+.item img{
+  display:block;
+  height:200px;
+  margin:10px;
+  border-radius:10px;
+  border:1px solid seashell;
+}
