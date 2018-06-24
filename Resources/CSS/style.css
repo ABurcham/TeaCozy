@@ -109,3 +109,10 @@ nav span{
   margin:auto;
   background-color:gray;
 }
+/* Footer Section */
+footer{
+  margin-top:50px;
+  text-align:left;
+  width:100%;
+  border-top:1px solid seashell;
+}
