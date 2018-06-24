@@ -90,6 +90,7 @@ nav span{
   margin:auto;
   padding-top:70px;
   border-radius:10px;
+  margin-bottom:50px;
 }
 #Locations .location{
   width:300px;
@@ -98,4 +99,13 @@ nav span{
   background-color:black;
   border:1px solid seashell;
   border-radius:10px;
+}
+/*Contact Section*/
+#Contact{
+  height:200px;
+  width:1000px;
+  border:1px solid seashell;
+  border-radius:10px;
+  margin:auto;
+  background-color:gray;
 }
